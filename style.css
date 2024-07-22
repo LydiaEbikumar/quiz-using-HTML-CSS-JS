@@ -1,0 +1,48 @@
+li{
+
+    display: block;
+    height: 70px;
+    margin: 30px;
+    background-color: white;
+    border-radius: 5%;
+    
+
+}
+ul{
+    display: flexbox;
+    width: 1300px auto;
+
+}
+.row{
+    padding-bottom: 40px;
+}
+.container{
+    margin-top: 20px;
+    background-color: rgb(224, 160, 160);
+}
+h1{
+    margin:40px;
+    padding-top: 100px;
+    font-size: x-large;
+    font-weight: bold;
+}
+p{
+    position: relative;
+    margin-left: 75px;
+    padding-top:  10px;
+    font-weight: bold;
+}
+
+
+span{
+    background-color: rgb(201, 101, 94);
+    width: 70px;
+    display: block;
+    height: 70px;
+    position:absolute;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    
+
+}
